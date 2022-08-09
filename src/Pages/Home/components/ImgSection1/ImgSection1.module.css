@@ -1,0 +1,29 @@
+.main1 {
+  position: relative;
+  z-index: -1;
+  height: 86vh;
+  background-image: url("../../../../Assets/hero-img.png");
+  background-size: cover;
+}
+.overlay1 {
+  height: 100%;
+  background-color: #000;
+  opacity: 0.6;
+}
+.info1 {
+  position: absolute;
+  color: #fff;
+  width: 50%;
+  top: 20%;
+  left: 15%;
+}
+.info1__heading {
+  font-size: 6rem;
+  margin-bottom: 1em;
+}
+.info1__text {
+  font-size: 1.8rem;
+  line-height: 1.4;
+  margin-bottom: 2em;
+  color: #d9d9d9;
+}

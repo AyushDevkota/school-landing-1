@@ -1,0 +1,13 @@
+export { default as PrimaryBtn } from "./Button/PrimaryBtn";
+export { default as SecondaryBtn } from "./Button/SecondaryBtn";
+export { default as TransparentBtn } from "./Button/TransparentBtn";
+export { default as SectionBtn } from "./Button/SectionBtn";
+export { default as Card } from "./Card";
+export { default as Grid } from "./Grid";
+export { default as Infobar } from "./Infobar";
+export { default as Navbar } from "./Navbar";
+export { default as Section } from "./Section";
+export { default as Title } from "./Title";
+export { default as StudentCard } from "./Student";
+export { default as SubTitle } from "./SubTitle";
+export { default as NewsComp } from "./News";

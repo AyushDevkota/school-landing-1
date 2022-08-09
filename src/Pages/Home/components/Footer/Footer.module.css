@@ -1,0 +1,29 @@
+.footer {
+  background-color: #080a1a;
+  color: #fff;
+}
+.footer__container {
+  gap: 5rem;
+}
+.footer__1 {
+  align-items: center;
+  font-size: 2rem;
+}
+.footer__1 button {
+  padding: 8px;
+  text-transform: uppercase;
+  color: #b70021;
+}
+.footer__2 {
+  font-size: 1.25rem;
+}
+.footer__3 {
+  font-size: 1.5rem;
+}
+.footer__heading {
+  margin-bottom: 2rem;
+  font-size: 1.7rem;
+}
+.footer__gap {
+  gap: 2rem;
+}

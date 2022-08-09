@@ -1,0 +1,57 @@
+.main3 {
+  position: relative;
+  z-index: -1;
+  height: 70vh;
+  background-image: url("../../../../Assets/graduation.png");
+  background-size: cover;
+  background-position: center;
+}
+.overlay3 {
+  height: 100%;
+  background-color: #000;
+  opacity: 0.6;
+}
+.info3 {
+  position: absolute;
+  color: #fff;
+  width: 50%;
+  top: 15%;
+  left: 25%;
+}
+.info3__heading {
+  font-size: 4rem;
+  margin-bottom: 0.5em;
+}
+.info3__text {
+  font-size: 1.7rem;
+  width: 80%;
+  margin: 0 auto;
+  line-height: 1.4;
+  margin-bottom: 2em;
+  color: #d9d9d9;
+}
+.rank__container {
+  position: relative;
+  top: -50%;
+  color: #fff;
+  width: 80%;
+  margin: 0 auto;
+}
+.ranking__rank {
+  font-size: 5rem;
+}
+.ranking__info {
+  font-size: 1.5rem;
+  color: #d9d9d9;
+}
+.graduation__link__container {
+  width: max-content;
+  margin: 6em auto 0;
+  cursor: pointer;
+}
+.graduation__link {
+  border-bottom: 1px solid #029a29;
+  padding-bottom: 1em;
+  top: 10%;
+  font-size: 1.4rem;
+}

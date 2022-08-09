@@ -1,0 +1,27 @@
+.student-card {
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+}
+
+.student-card__top {
+  /* background-color: red; */
+  flex-basis: 70%;
+}
+.student-card__bottom {
+  flex-basis: 30%;
+  background-color: #00000063;
+  color: #fff;
+  padding: 1.5em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+.student-card__name {
+  font-size: 2rem;
+}
+.student-card__bottom__info {
+  font-style: italic;
+  font-size: 1.6rem;
+  font-family: "Times New Roman", Times, serif;
+}

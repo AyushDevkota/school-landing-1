@@ -1,0 +1,29 @@
+.main2 {
+  position: relative;
+  z-index: -1;
+  height: 70vh;
+  background-image: url("../../../../Assets/university.png");
+  background-size: cover;
+}
+.overlay2 {
+  height: 100%;
+  background-color: #000;
+  opacity: 0.6;
+}
+.info2 {
+  position: absolute;
+  color: #fff;
+  width: 50%;
+  top: 20%;
+  left: 45%;
+}
+.info2__heading {
+  font-size: 5.5rem;
+  margin-bottom: 0.5em;
+}
+.info2__text {
+  font-size: 1.8rem;
+  line-height: 1.4;
+  margin-bottom: 2em;
+  color: #d9d9d9;
+}

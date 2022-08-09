@@ -1,0 +1,73 @@
+/* Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body,
+html {
+  font-family: "Lexend", sans-serif;
+  line-height: 1.2;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+
+/* font weights */
+.fw-light {
+  font-weight: 300;
+}
+.fw-regular {
+  font-weight: 400;
+}
+.fw-medium {
+  font-weight: 500;
+}
+.fw-semi-bold {
+  font-weight: 600;
+}
+.fw-bold {
+  font-weight: 700;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.text-green {
+  color: #029a29;
+}
+.fs-13 {
+  font-size: 1.3rem;
+}
+.fs-20 {
+  font-size: 2rem;
+}
+.text-dark {
+  color: #2a2a2a;
+}
+.text-light {
+  color: #d9d9d9;
+}
+
+/* Layout */
+.flex-row {
+  display: flex;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+.flex-space-between {
+  justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+export { default as Logo } from "./logo.png"
+export { default as CardImg1 } from "./card-img-1.png";
+export { default as CardImg2 } from "./card-img-2.png";
+export { default as CardImg3 } from "./card-img-3.png";
+export { default as HeroImg } from "./hero-img.png";
+export { default as SchoolImg } from "./school.png";
+export { default as Student1Img } from "./Student1.png";
+export { default as Student2Img } from "./Student2.png";
+export { default as Student3Img } from "./Student3.png";
+export { default as UniversityImg } from "./university.png"
+export { default as GraduationImg } from "./graduation.png"
+export { default as NewsImg } from "./news.png"
+export { default as EventImg1 } from "./event-1.png"
+export { default as EventImg2 } from "./event-2.png"
+export { default as EventImg3 } from "./event-3.png"
+export { default as EventImg4 } from "./event-4.png"

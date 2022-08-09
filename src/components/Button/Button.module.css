@@ -1,0 +1,40 @@
+.btn {
+  cursor: pointer;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  padding: 2rem 2.5rem;
+  border-radius: 5em;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+.primary-btn {
+  background-color: #fff;
+  color: #1f2059;
+}
+.secondary-btn {
+  color: #fff;
+  background-color: #029a29;
+}
+.transparent-btn {
+  width: max-content;
+  padding-bottom: 5px;
+  border: none;
+  background-color: #fff;
+  color: #1f2059;
+  border-bottom: 1px solid #1f2059;
+  cursor: pointer;
+  margin-top: 0.5em;
+}
+.section-btn {
+  width: max-content;
+  margin: 0 auto;
+  margin-top: 8em;
+}
+.section-btn__link {
+  font-size: 1.7rem;
+  color: #1f2059;
+  border-bottom: 1px solid #029a29;
+  padding-bottom: 0.5em;
+}

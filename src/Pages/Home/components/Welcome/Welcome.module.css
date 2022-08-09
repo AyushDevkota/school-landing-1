@@ -1,0 +1,20 @@
+.text-area {
+  align-self: center;
+  width: 90%;
+  margin-left: auto;
+}
+.text-area span {
+  font-size: 1.125rem;
+}
+.welcome__img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.desc {
+  font-size: 1.5rem;
+}
+.welcome__light {
+  color: #00000075;
+  margin-bottom: 4rem;
+}

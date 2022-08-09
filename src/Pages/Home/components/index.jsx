@@ -1,0 +1,13 @@
+export { default as ImgSection1 } from "./ImgSection1";
+export { default as Welcome } from "./Welcome";
+export { default as Header } from "./Header";
+export { default as Features } from "./Features";
+export { default as Counseling } from "./Counseling";
+export { default as Resources } from "./Resources";
+export { default as ImgSection2 } from "./ImgSection2";
+export { default as ImgSection3 } from "./ImgSection3";
+export { default as Students } from "./Students";
+export { default as News } from "./News";
+export { default as Events } from "./UpcomingEvents";
+export { default as Testimonial } from "./Testimonial";
+export { default as Footer } from "./Footer";

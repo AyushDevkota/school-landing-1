@@ -1,0 +1,19 @@
+.counsel {
+  width: 100%;
+  margin: 0 auto;
+  padding: 5rem;
+  background-color: #029a29;
+  color: #fff;
+}
+.counsel__title {
+  font-size: 3.2rem;
+  margin-bottom: 1rem;
+}
+.counsel__desc {
+  font-size: 2rem;
+}
+.btn-container {
+  width: max-content;
+  margin-left: auto;
+  align-self: center;
+}
